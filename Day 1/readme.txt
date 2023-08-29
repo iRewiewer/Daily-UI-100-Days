@@ -6,4 +6,4 @@ Share your design on Dribbble or Twitter with #DailyUI
 
 
 Result:
-https://www.canva.com/design/DAFs0btun9c/KZSQWwRV1DGoBT1Rp-nqBQ/edit?utm_content=DAFs0btun9c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAFs0btun9c/jqOjUG6ViNN7ZFkwcakqRg/view?utm_content=DAFs0btun9c&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
