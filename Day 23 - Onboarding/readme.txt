@@ -6,3 +6,4 @@ Onboarding might seem trivial, but it's the first experience your users have wit
 
 
 Result:
+https://www.canva.com/design/DAFvV3z7ksA/5EfNGmHt3BUMBOXbRs3Bpg/view?utm_content=DAFvV3z7ksA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
