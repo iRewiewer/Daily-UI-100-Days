@@ -1,0 +1,8 @@
+Prompt: Notification
+
+Today's challenge is super simple. 
+ 
+Just a plain and easy notification. It could be a daily reminder to take medication, a new message received notification, or app updates. 
+
+
+Result:
