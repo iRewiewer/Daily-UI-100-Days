@@ -8,3 +8,4 @@ Or a gamer's profile page with some recent statistics?
 
 
 Result:
+https://www.canva.com/design/DAFxn8I0vOg/ES2dCEq22hrGcM9C7dibBA/view?utm_content=DAFxn8I0vOg&utm_campaign=designshare&utm_medium=link&utm_source=editor
