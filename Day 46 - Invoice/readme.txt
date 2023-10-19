@@ -8,3 +8,4 @@ Tip: An invoice is a nice opportunity to thank a client. Uplifting comments can 
 
 
 Result:
+https://www.canva.com/design/DAFxuZJ2fVY/rm-UOpV34rEUqR9HUAwRpQ/view?utm_content=DAFxuZJ2fVY&utm_campaign=designshare&utm_medium=link&utm_source=editor
