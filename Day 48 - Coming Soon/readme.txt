@@ -7,3 +7,4 @@ Some brands are famous for their teaser and coming soon pages. It's an opportuni
 
 
 Result:
+https://www.canva.com/design/DAFxyQjPRAI/plkFqsopEalyNnvOI1b-fQ/view?utm_content=DAFxyQjPRAI&utm_campaign=designshare&utm_medium=link&utm_source=editor
