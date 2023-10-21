@@ -6,3 +6,4 @@ Hiring pages are a great opportunity for brands to give fun facts about their te
 
 
 Result:
+https://www.canva.com/design/DAFx4zJwbjA/tzHtWkJQtp7LMm_dTiQPug/view?utm_content=DAFx4zJwbjA&utm_campaign=designshare&utm_medium=link&utm_source=editor
