@@ -1,0 +1,7 @@
+Prompt: Shopping cart
+
+Some brands use a cart or bag during their checkout process.
+Consider the products, prices, and placement of any other required data.
+Do people need to create an account? Checkout as a guest? Is there shipping?
+
+Result:
