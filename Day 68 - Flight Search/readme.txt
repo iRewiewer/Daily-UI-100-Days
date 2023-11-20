@@ -6,3 +6,4 @@ Consider the variables: one-way, roundtrip, or multi-stop flight? Baggage fees? 
 
 
 Result:
+https://www.canva.com/design/DAF0u_hbOCM/VHw15QCz9aEOWaihfsM0xA/view?utm_content=DAF0u_hbOCM&utm_campaign=designshare&utm_medium=link&utm_source=editor
