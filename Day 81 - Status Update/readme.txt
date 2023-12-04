@@ -1,0 +1,6 @@
+Prompt: Status Update
+
+Design a status update. It could be for a notification bar, a progress indicator for a download that's complete, or something else.
+
+
+Result:

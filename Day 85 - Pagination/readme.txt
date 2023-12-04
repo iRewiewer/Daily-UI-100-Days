@@ -1,0 +1,8 @@
+Prompt: Pagination
+
+Dealing with lots of information isn't easy. When there are hundreds of pages or components, things can get messy if there's no clear hierarchy. 
+ 
+Design a pagination look and flow to make it simple.
+
+
+Result:

@@ -1,0 +1,8 @@
+Prompt: Splash Screen
+
+Splash screens tend to occur right after someone opens an app. 
+ 
+It's easy to overlook, but making a great first impression with your users is essential to building trust. 
+
+
+Result:
